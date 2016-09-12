@@ -1,0 +1,12 @@
+{
+  "name": "meeting-collaboration-server",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
